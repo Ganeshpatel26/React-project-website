@@ -1,0 +1,337 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav1{
+    background-color: purple;
+}
+
+.mail{
+    margin-right: 20px;
+}
+.mail1{
+    margin-right: 120px;
+}
+
+.company_logo{
+    margin-left: 50px;
+    font-weight: 800;
+}
+.nav2{
+    margin-right: 120px;
+}
+#signin{
+    border-color: purple;
+    color: purple;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#login{
+    background-color: purple;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+/* .dropdown-item{
+    display: block;
+} */
+
+.img{
+    background-image: url("Tech.original.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+}
+
+.mission, .learner, .interactive, .btns{
+    color: orangered;
+    margin-left: 100px;
+}
+#mission{
+    font-size: 62px;
+    font-weight: 1000;
+}
+#learner{
+    font-size: 50px;
+}
+
+.btn1{
+    border-color: white;
+    color: white;
+    border-radius: 5px;
+    background-color: purple;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.col1{
+    margin-left: 100px;
+    /* margin-right: 100px; */
+}
+.img2{
+    margin-left: 45px;
+}
+.best{
+    color: orangered;
+}
+.education{
+    color: gray;
+}
+.world{
+    color: purple;
+}
+.lorem1{
+ color: gray;
+}
+
+.car{
+    width: 100%;
+    height: 600px;
+}
+.radius{
+    border-radius: 50px;
+    width: 100%;
+    height: 470px;
+}
+.horizontal{
+    border: 3px solid purple;
+}
+
+.trust, .safe, .quick{
+    font-size: 10px;
+    text-align: center;
+    float: left;
+    font-weight: bold;
+}
+.symb{
+    width: 30px;
+    height: 20px;
+}
+
+.page3col2{
+    margin-left: 100px;
+}
+.training{
+    font-weight: 500;
+}
+
+.imagepage3{
+    width: 100%;
+    height: 1050px;
+}
+
+.booksimages{
+    background-image: url("photo-1541963463532-d68292c34b19.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 900px;
+    border-radius: 5px;
+}
+.helping{
+    margin-left: 20px;
+    padding-right: 60px;
+}
+.viewall{
+    margin-left: 20px;
+    width: 40%;
+    height: 50px;
+}
+
+.imagecard{
+    margin-left: 10px;
+    /* display: flex; */
+}
+.cardradius{
+    border-radius: 5px;
+    margin-left: 17px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+.imageimage{
+    margin-top: 5px;
+    /* border-radius: 30px;*/
+    padding: 5px;
+    width: 50%;
+}
+
+.cardheader{
+    font-size: 16px;
+    color: purple;
+}
+.cardtext{
+    font-size: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.btnlesson{
+    font-size: 14px;
+    color: orange;
+}
+.btnstar{
+    float: right;
+    background-color: purple;
+}
+
+.cards4{
+    display: flex;
+}
+
+/* .page6{
+    display: flex;
+} */
+
+.why{
+    color: purple;
+    font-weight: bold;
+}
+
+.pngimage{
+    width: 22%;
+    height: 400px;
+    margin-left: 100px;
+    display: flex;
+}
+
+.pngimage1{
+    margin-left: 100px;
+}
+
+.page7col1{
+    margin-left: 100px;
+}
+
+.trust1{
+ color: gray;
+}
+.peaceful{
+    color: purple;
+}
+.lorem2{
+    color: gray;
+}
+.clickhere{
+    width: 60%;
+    height: 50px;
+}
+.student{
+    color: purple;
+}
+
+.ispum{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.image11{
+    border: 5px solid orange;
+    width: 120px;
+    height: 120px;
+    margin-left: 200px;
+    margin-top: -60px;
+}
+
+.image12{
+    border: 5px solid red;
+    width: 120px;
+    height: 120px;
+    margin-left: 950px;
+    margin-top: -10px;
+}
+
+.field{
+    border: 5px solid purple; 
+    border-radius: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    text-align: justify;
+    padding-right: 25px;
+    padding-left: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.image13{
+    border: 5px solid purple;
+    width: 150px;
+    height: 150px;
+    margin-left: 380px;
+    margin-top: -323px;
+}
+.image14{
+    border: 5px solid pink;
+    width: 150px;
+    height: 150px;
+    margin-left: -450px;
+}
+
+.image15{
+    border: 5px solid purple;
+    width: 80px;
+    height: 80px;
+    margin-left: 850px;
+    margin-top: -340px;
+}
+.image16{
+    border: 5px solid blue;
+    width: 130px;
+    height: 130px;
+   margin-left: 110px;
+}
+
+.image17{
+    border: 5px solid yellow;
+    width: 80px;
+    height: 80px;
+    margin-left: 500px;
+}
+
+.footer{
+    background-image: url("branding-wave-footer.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+}
+
+.footer_last{
+    background-color: rgb(100, 11, 183);
+}
+.field2{
+    border: 5px solid purple;
+    border-radius: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+#name, #email, #sub{
+    width: 50%;
+    margin-left: 25%;
+    height: 60px;
+    color: purple;
+    border-radius: 10px;
+}
+
+.please{
+    margin-left: 30%;
+}
+
+.loremispum{
+    margin-left: 100px;
+}
+.svg1{
+    margin-left: 100px;
+}
+.svg2{
+    margin-left: 30px;
+}
+.svg3{
+    margin-left: 30px;
+}
+
+
+
